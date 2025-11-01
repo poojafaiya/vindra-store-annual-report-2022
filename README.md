@@ -33,3 +33,11 @@ store can understand thair coustomers and manage sales in 2023 and 2024.
 ## dashboard
 https://github.com/poojafaiya/vindra-store-annual-report-2022/blob/main/github%20.png
 <img width="960" height="540" alt="github " src="https://github.com/user-attachments/assets/e22eb9ca-a467-432f-8bb5-8c54030ca022" />
+
+## project insights
+- Women are the primary buyers (78%)
+- Adult age group contributes most orders
+- Highest sales months: around Aug–Dec spike
+- Amazon is the top channel (~40%)
+- Madhya Pradesh is top performing state
+- 92% orders delivered → strong fulfillment performance
