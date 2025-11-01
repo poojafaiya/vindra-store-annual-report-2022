@@ -5,3 +5,5 @@ This project presents a comprehensive annual sales analysis for Vrinda Store for
 ## project objective
 the vindra store wants create an annual sales report for 2022. that's why the owner of the vindra 
 store can understand thair coustomers and manage sales in 2023 and 2024.
+## data used
+-<a href ="https://github.com/poojafaiya/vindra-store-annual-report-2022/blob/main/Vrinda%20Store%20Data%20Analysis%20(1).xlsx">dataset</a>
