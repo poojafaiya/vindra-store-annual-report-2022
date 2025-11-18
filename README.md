@@ -41,3 +41,15 @@ https://github.com/poojafaiya/vindra-store-annual-report-2022/blob/main/github%2
 - Amazon is the top channel (~40%)
 - Madhya Pradesh is top performing state
 - 92% orders delivered → strong fulfillment performance
+
+
+## 👤 Author
+[Pooja Faliya] Data Analyst | Python & SQL Enthusiast | Power BI Learner
+
+📧 Email: poojafaliya1@gmail.com
+
+💼 LinkedIn: http://www.linkedin.com/in/pooja-faliya-8b5428358
+
+📂 GitHub: https://github.com/poojafaliya
+
+💬 open to opertunities in data analysis
